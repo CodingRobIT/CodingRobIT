@@ -21,6 +21,8 @@ Ich bin leidenschaftlicher Softwareentwickler mit Erfahrung in Backend- und Fron
 - Frameworks: Spring, Node.js
 - Libraries: React, Lombok
 - IDE's: IntelliJ IDEA Ultimate, Visual Studio 2022
+- Operating systems: Ubuntu, Debian, openSUSE Tumbleweed, Kali
+
   
 ## Aktivitäten
 - [CodeWars](https://www.codewars.com/users/Hyoto1507)
