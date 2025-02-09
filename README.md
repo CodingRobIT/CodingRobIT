@@ -29,6 +29,5 @@ I'm a passionate software developer with experience in both backend and frontend
 
 ## Contact
 - Email: [tmai02476@gmail.com](mailto:tmai02476@gmail.com)
-- Visit my <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/03784dd2-b460-4e8c-964f-0cda4a07ebf4" alt="LinkedIn" width="20" height="20"> [Profile](https://www.linkedin.com/in/robin-s-838230216/) for more information about my professional journey.
 
 Thanks for visiting my GitHub profile!
