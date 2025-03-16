@@ -2,6 +2,10 @@
 
 I'm a passionate software developer with experience in both backend and frontend technologies. My primary focus is on Java and React, and I work on both solo and group projects.
 
+## Languages
+- German: Native language.
+- English: Good.
+
 ## Current Projects
 ### **Solo Project**:
 - [Game Gallery App](https://github.com/CodingRobIT/Digitales-Gesellenstueck)
