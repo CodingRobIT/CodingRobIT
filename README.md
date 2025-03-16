@@ -4,7 +4,7 @@ I'm a passionate software developer with experience in both backend and frontend
 
 ## Languages
 - German: Native language.
-- English: Good.
+- English: Advanced.
 
 ## Current Projects
 ### **Solo Project**:
