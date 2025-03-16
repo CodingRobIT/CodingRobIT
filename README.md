@@ -10,6 +10,8 @@ I'm a passionate software developer with experience in both backend and frontend
   - Description: My first Android app. I developed it to familiarise myself with Android Studio and to understand how apps are developed in general
 - [Time Calculator](https://github.com/CodingRobIT/TimeCalculatorApp)
   - Description: This is a simple time conversion app. The aim is to convert hours and minutes into decimal values and absolute minutes - and vice versa. No matter what input you make, all other values are calculated automatically.
+- [Check for Blacklisted IBAN's](https://github.com/CodingRobIT/PDFScanerForBlacklistetIban)
+  - Description: In the context of a coding challenge I have developed an API which can scan a downloadable PDF via a URL for IBAN's and check it for IBAN's on a blacklist
 
 ### **Group Projects**: 
 - [Recipes](https://github.com/neuefische/hh-java-23-1-teamproject-recipes-2)
