@@ -22,8 +22,7 @@ I'm a passionate software developer with experience in both backend and frontend
   - Description: Team project I worked on during the boot camp. It's a kind of ChefKoch 2.0.
 - [Glowing Spork](https://github.com/CodingRobIT/glowing-spork)
   - Description: My current group project. Development is progressing slowly due to everyone's busy schedules, but we're working on it! (This project has unfortunately died)
- 
-- It's often challenging to find programming partners who stay committed to group projects. However, I regularly try to start new group projects with other developers. As my next step, I plan to contribute to existing projects as a contributor.
+
 
 ## Skills
 - Backend: <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/d5831944-4899-43a8-a9cd-d2d8e3f47cca" alt="Java 17" height="30">   <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/56998e79-9dce-492c-b38e-f621dbbcb160" alt="C#" height="30">   <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/2b565f1b-3e8e-4f64-a8b6-5c6efe3e055a" alt="JUnit" height="30">
