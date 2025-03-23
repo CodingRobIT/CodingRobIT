@@ -40,10 +40,9 @@ I'm a passionate software developer with experience in both backend and frontend
 - IDE's: <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/61326f38-c5e2-4c0c-9f87-3a14a496725e" alt="IntelliJ IDEA Ultimate"  height="30"> <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/8c012137-b543-4074-b7e4-a8956e655693" alt="Visual Studio 2022"  height="30"> <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/8713e846-0bea-47b6-a1ac-42ba732e54c3" alt="Visual Studio CODE"  height="30"> <img src="https://github.com/user-attachments/assets/86478f11-dc10-49b2-abb0-16002fb7fee2" alt="Android-Studio" height="30">
 - Containerization: <img src="https://github.com/user-attachments/assets/97cb35a6-b17e-439c-b839-e0c12692a9a7" alt="docker"  height="30">
 
-- Operating systems: <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/b7816e67-f157-482a-bc26-f5f400c02a2a" alt="Ubuntu"  height="30"> <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/15ffedde-3f09-44b4-bf35-eb9e0110a71a" alt="Debian"  height="30"> <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/10c59958-2add-463c-b084-7c7f879087d7" alt="openSUSE Tumbleweed"  height="30"> <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/5421ad1e-7a28-4d49-a248-62c7e644f976" alt="Kali Linux"  height="30">
+- Operating systems: <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/b7816e67-f157-482a-bc26-f5f400c02a2a" alt="Ubuntu"  height="30"> <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/15ffedde-3f09-44b4-bf35-eb9e0110a71a" alt="Debian"  height="30"> <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/10c59958-2add-463c-b084-7c7f879087d7" alt="openSUSE Tumbleweed"  height="30"> <img src="https://github.com/CodingRobIT/CodingRobIT/assets/126405148/5421ad1e-7a28-4d49-a248-62c7e644f976" alt="Kali Linux"  height="30"> <img src="https://github.com/user-attachments/assets/31b41224-ba0f-45a1-9a4b-bfe74d7c72cd" alt="windows"  height="30">
 
 <img src="" alt=""  height="30">
-
 
 
 ## Activities
@@ -53,5 +52,3 @@ I'm a passionate software developer with experience in both backend and frontend
 - Email: [tmai02476@gmail.com](mailto:tmai02476@gmail.com)
 
 Thanks for visiting my GitHub profile!
-
-
