@@ -23,7 +23,7 @@ I'm a passionate software developer with experience in both backend and frontend
 - [Glowing Spork](https://github.com/CodingRobIT/glowing-spork)
   - Description: My current group project. Development is progressing slowly due to everyone's busy schedules, but we're working on it! (This project has unfortunately died)
  
-### Projects with My 7-Year-Old Daughter
+### Projects with My 8-Year-Old Daughter
 ##### This section showcases various projects I create together with my daughter using the Calliope Mini (https://calliope.cc/). We program these projects collaboratively in the online editor https://makecode.calliope.cc/.
 - [Calliope Mini Projekt: Counter](https://github.com/CodingRobIT/neles-projekt)
   - This project features a simple counter. Pressing the B button increases the count, while pressing the A button decreases it.
