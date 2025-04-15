@@ -28,6 +28,11 @@ I'm a passionate software developer with experience in both backend and frontend
 - [Calliope Mini Projekt: Counter](https://github.com/CodingRobIT/neles-projekt)
   - This project features a simple counter. Pressing the B button increases the count, while pressing the A button decreases it.
   - The current count is displayed on the Calliope Mini's 5x5 LED matrix.
+ 
+- [Karel the Robot](https://github.com/CodingRobIT/Karel_the_Bot_by_Nele/blob/main/.idea/Code/Karel%20Code%20Backup.txt)
+  - Based on the project Karel the Robot
+  - Implemented own code within the framework
+  - Uses a simple, custom programming language designed for kids and beginners to learn the basics of coding
 
 
 
